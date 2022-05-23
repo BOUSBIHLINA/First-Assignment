@@ -1,0 +1,23 @@
+
+
+p{
+    margin-top: 15px;
+} 
+
+img{
+    width: 400px;
+    height: 250px;
+    margin-bottom: 4px;
+}
+
+
+li{
+    display: inline;
+}
+
+#hb{
+    padding: 300px;
+}
+footer{
+    margin-top: 400px;
+}
